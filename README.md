@@ -6,4 +6,4 @@ format
 model_name;brand_code
 ```
 example:
-`drawlat;ekwl` ([HP Chromebook 11 G9 EE (DRAWLAT-EKWL)](https://cros.tech/device/drawlat/))
+`drawlat;EKWL` ([HP Chromebook 11 G9 EE (DRAWLAT-EKWL)](https://cros.tech/device/drawlat/))
