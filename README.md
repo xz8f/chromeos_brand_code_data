@@ -7,3 +7,5 @@ model_name;brand_code
 ```
 example:
 `drawlat;EKWL` ([HP Chromebook 11 G9 EE (DRAWLAT-EKWL)](https://cros.tech/device/drawlat/))
+
+ join [crosbreaker](https://discord.gg/nrMVY29MUb)
